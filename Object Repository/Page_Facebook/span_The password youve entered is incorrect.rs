@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_The password youve entered is incorrect</name>
+   <tag></tag>
+   <elementGuidId>86a3eb1f-f16a-42fc-add7-4f7889e4695b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span._akzt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_ML']/div/div[2]/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a2614a57-a1b4-4e53-be8a-912057434fff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_akzt</value>
+      <webElementGuid>6f82ef00-5fd1-40d8-920c-f3f2eed7ee36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The password you've entered is incorrect.</value>
+      <webElementGuid>ab1b8edf-1453-4699-800c-b39bdeb42935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_1_ML&quot;)/div[@class=&quot;mtl mbm ptm uiInterstitial _aklr uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;phl ptm uiInterstitialContent&quot;]/div[1]/div[@class=&quot;pam uiBoxGray&quot;]/div[1]/span[@class=&quot;_akzt&quot;]</value>
+      <webElementGuid>2812305b-aecf-4094-b4d6-c56c06b306a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_ML']/div/div[2]/div/div/div/span[2]</value>
+      <webElementGuid>3bc9bea2-8c1b-4578-a24f-fc62dd134031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>88577415-3071-49dc-a313-7e2f28f2a84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;The password you&quot; , &quot;'&quot; , &quot;ve entered is incorrect.&quot;) or . = concat(&quot;The password you&quot; , &quot;'&quot; , &quot;ve entered is incorrect.&quot;))]</value>
+      <webElementGuid>a17cedb3-6214-4b69-991f-02a8ee65404c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_IU']/div/div[2]/div/div/div/span[2]</value>
+      <webElementGuid>0efe383b-311a-4154-b1ed-73f0c584d722</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
